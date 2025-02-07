@@ -1,0 +1,4 @@
+cpunode01 slots=1
+cpunode02 slots=1
+gpunode01 slots=1
+gpunode02 slots=1

@@ -1,0 +1,3 @@
+/home/user1/mpi/mpi_calculate/build/CMakeFiles/my_program.dir
+/home/user1/mpi/mpi_calculate/build/CMakeFiles/edit_cache.dir
+/home/user1/mpi/mpi_calculate/build/CMakeFiles/rebuild_cache.dir
