@@ -13,4 +13,4 @@ After setting up and configuring the virtual cluster, its performance was tested
 * Installing and setting up the necessary software;  
 * Writing code to solve a practical task: The ability to run the same program on different configurations (GPU-only nodes, CPU-only nodes, GPU and CPU together) was achieved using dynamically linked libraries.  
 
-Full report in Russian: <>
+Full report in Russian: <https://github.com/MikhailCherepanovD/Hyper-V_ParallelTask/blob/master/Report.pdf>
